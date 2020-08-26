@@ -1,0 +1,3 @@
+# include all not  sharable files and directories
+.idea/
+
